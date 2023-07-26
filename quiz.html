@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This JavaScript code is a quiz application that presents multiple-choice questions to the user. It randomizes the options for each question and calculates the user's score. After completing the quiz, the user can review their incorrect answers.">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Borel|Roboto Slab|Victor Mono|Asap">
+    <link rel="stylesheet" href="quiz.css">
+    <link rel="icon" href="quiz.jpg">
+    <title>JAVASCRIPT-QUIZ APP</title>
+</head>
+<body>
+    <div class="container">
+        <h1>JAVASCRIPT QUESTIONS</h1>
+        <!--display the questions and its options-->
+        <div id="quiz"></div>
+        <!--display the results-->
+        <div id="result" class="result"></div>
+        <!--submit button-->
+        <button id="submit" class="button">SUBMIT</button>
+        <!--retry button-->
+        <button id="retry" class="button hide">RETRY</button>
+        <!--display the correct anwsers-->
+        <button id="showAnswer" class="button hide">SHOW ANSWER</button>
+    </div>
+    <script src="quiz.js"></script>
+</body>
+</html>
