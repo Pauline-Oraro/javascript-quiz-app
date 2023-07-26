@@ -1,6 +1,7 @@
 # javascript-quiz-app
 A quiz app created using javascript
-###This JavaScript code is a simple quiz application that presents a series of questions with multiple-choice options. 
+
+### This JavaScript code is a simple quiz application that presents a series of questions with multiple-choice options. 
 The user can select an option for each question, and after answering all the questions, they can submit the quiz to see their score and review incorrect answers. 
 Let's break down the code:
 
