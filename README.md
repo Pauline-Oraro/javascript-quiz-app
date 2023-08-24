@@ -26,9 +26,6 @@ showAnswer(): A function to display the correct answers for the incorrectly answ
 The application allows the user to take the quiz, see their score, and review incorrect answers. 
 The questions and options are randomized, adding an element of surprise and making the quiz more engaging.
 
+### You can view the live demo here
 
-
-
-
-
-
+[Javascript quiz app](https://pauline-oraro.github.io/javascript-quiz-app.github.io/)
